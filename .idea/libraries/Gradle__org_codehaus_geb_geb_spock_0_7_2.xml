@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.geb:geb-spock:0.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.codehaus.geb/geb-spock/0.7.2/jar/e8f8716ac8a19ca113d67a132de360206b27d5ba/geb-spock-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-14/filestore/org.codehaus.geb/geb-spock/0.7.2/source/5e1976c9df91869b533277a44f6c3012ab3575a4/geb-spock-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
